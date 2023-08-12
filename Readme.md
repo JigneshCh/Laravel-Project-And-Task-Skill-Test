@@ -23,10 +23,6 @@
  - Url: http://jcwebdeveloper.com/Jignesh-demo/Laravel-Project-And-Task-Skill-Test/public/
 
 
-https://cdn-api.ridestyler.net/Vehicle/Render?key=13f891add494450c9c9035d6985b5e16&PositionX=1&PositionY=1&vehicleconfiguration=784f707a-b95b-4c55-a6d3-89ffdced3bc7&type=Side&width=928&height=500&suspension=0&wheelpartnumber=818BM-2098718&cacheKey=310011
-https://cdn-api.ridestyler.net/Vehicle/Render?key=13f891add494450c9c9035d6985b5e16&PositionX=1&PositionY=1&vehicleconfiguration=784f707a-b95b-4c55-a6d3-89ffdced3bc7&type=Side&width=1584&height=500&suspension=0&wheelpartnumber=818BM-2098718
-
-
 
 
 
